@@ -1,0 +1,4 @@
+just run the exe, select the app and click "Make Borderless"
+
+panic exit key: alt + q
+
